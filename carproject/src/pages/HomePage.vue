@@ -5,7 +5,6 @@
      <section class="flex flex-col bg-[url('/image.jpg')] object-contain">
     
     <h1
-      v-motion-pop 
       class=" text-3xl font-mono font-semibold text-white px-64 py-80"
      >
        Auto <span style="color:gray">Emergency</span> Braking 
